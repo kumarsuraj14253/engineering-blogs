@@ -260,6 +260,7 @@
 * OpenDNS https://engineering.opendns.com/
 * Oursky https://code.oursky.com/
 * Opensooq http://engineering.opensooq.com/
+* Oracle https://blogs.oracle.com/developers/
 
 #### P companies
 * Palantir https://blog.palantir.com/
